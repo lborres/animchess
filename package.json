@@ -1,0 +1,25 @@
+{
+  "name": "animchess",
+  "version": "0.0.1",
+  "author": "Louis Borres <louisrborres@gmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@9.14.2",
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9"
+  },
+  "scripts": {
+    "dev": "concurrently \"turbo dev\""
+  },
+  "keywords": [
+    "chess",
+    "hexagon",
+    "anim",
+    "animchess"
+  ],
+  "devDependencies": {
+    "concurrently": "^9.1.0",
+    "turbo": "^2.3.3",
+    "typescript": "^5.7.2"
+  }
+}
