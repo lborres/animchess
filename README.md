@@ -1,8 +1,6 @@
 # Anim Chess Project <!-- omit from toc -->
 
-<div style="font-size: 1.25rem;">
-<b>anim</b> <i>(n., adj.)</i>: six (6) — in Filipino/Tagalog
-</div>
+**anim** *(n., adj.)*: six (6) — in Filipino/Tagalog
 
 Anim Chess is a platform dedicated to playing Gliński's hexagonal chess variant[^1] — initially a personal project to play hexagonal chess with friends.
 
