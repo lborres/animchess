@@ -9,7 +9,9 @@
     "pnpm": ">=9"
   },
   "scripts": {
-    "dev": "concurrently \"turbo dev\""
+    "dev": "concurrently \"turbo dev\"",
+    "fmt": "turbo run fmt --continue -- --cache --cache-location .cache/.prettiercache",
+    "fmt:fix": "turbo run fmt --continue -- --write --cache --cache-location .cache/.prettiercache"
   },
   "keywords": [
     "chess",
